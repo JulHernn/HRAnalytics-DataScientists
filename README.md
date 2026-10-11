@@ -28,7 +28,8 @@ Because the dataset is hosted on Kaggle, you must download it manually before ru
 2. Download the dataset (requires a free Kaggle account).
 3. Extract the `.zip` file and place `aug_train.csv` and `aug_test.csv` in the **root directory** of this project (the exact same folder where `jobchange.ipynb` is located).
 
-You want your project structure to look like below
+You want your project structure to look like below:
+
 ```txt
 HRAnalytics-DataScientists/
 ├── aug_test.csv
@@ -94,6 +95,18 @@ jupyter lab jobchange.ipynb
 #### Option 3: VS Code (IDE)
 
 If you prefer using an IDE, simply open the `jobchange.ipynb` file in [Visual Studio Code](https://code.visualstudio.com) with the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) installed. Select your Python kernel accordingly, and run the cells interactively.
+
+### Export Model
+
+If you would like to use the model for another dataset, you can export existing model inside this Jupyter Notebook using code snippet below:
+
+```python
+import joblib
+
+joblib.dump(<replace with model accordingly>, '<replaceMeWithModelName>.joblib')
+```
+
+Existing options include: `rf`, `rf_balanced`, `log_reg`, `log_reg_balanced`, `lgbm`, `lgbm_balanced`
 
 ## Optimizations
 
