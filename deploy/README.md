@@ -41,11 +41,11 @@ python testing_deploy.py
 }
 ```
 
-## Usage Example
+## `POST /predict` Usage Example
 
 ### Payload
 
-File: data.json
+File: `data.json`
 
 ```json
 {
