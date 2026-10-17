@@ -19,7 +19,6 @@ The `jobchange.ipynb` notebook is structured into the following main phases:
    - Splitting data with stratification to handle class imbalance.
    - Training baseline and class-balanced models.
    - Evaluating models using ROC-AUC and Cross-Validation.
-6. **Model Interpretability**: Using SHAP values to explain the predictions of the best-performing model and understand feature importance.
 
 ## Dataset Setup
 
