@@ -70,7 +70,7 @@ Activate Environment
 3. **Install dependencies**
 
 ```python
-pip install pandas numpy matplotlib seaborn scikit-learn lightgbm shap jupyter
+pip install -r requirements.txt
 ```
 
 ### Run

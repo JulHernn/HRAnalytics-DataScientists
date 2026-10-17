@@ -1,4 +1,12 @@
-# Code Snippet for Interpretation using SHAP
+# Interpretation using SHAP
+
+Dependencies:
+
+```python
+pip install shap
+```
+
+Code Snippet:
 
 ```python
 # Interpretasi Model RandomForest Balanced (score yang paling tinggi diantara 3 model di atas dari Cross Validation Score)
