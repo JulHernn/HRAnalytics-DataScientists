@@ -108,6 +108,10 @@ joblib.dump(<replace with model accordingly>, '<replaceMeWithModelName>.joblib')
 
 Existing options include: `rf`, `rf_balanced`, `log_reg`, `log_reg_balanced`, `lgbm`, `lgbm_balanced`
 
+## Model Interpretation
+
+See [interpretation](./docs/interpretation.md)
+
 ## Optimizations
 
 I haven't done the pipeline for `aug_test.csv`, feel free to do it on your own, to test the model more.
