@@ -97,7 +97,11 @@ If you prefer using an IDE, simply open the `jobchange.ipynb` file in [Visual St
 
 ## Model Interpretation
 
-See [interpretation](./docs/interpretation.md)
+See [Interpretation](./docs/interpretation.md)
+
+## Deployment
+
+See [Deployment](./deploy/README.md)
 
 ## Optimizations
 
