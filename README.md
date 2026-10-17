@@ -96,18 +96,6 @@ jupyter lab jobchange.ipynb
 
 If you prefer using an IDE, simply open the `jobchange.ipynb` file in [Visual Studio Code](https://code.visualstudio.com) with the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) installed. Select your Python kernel accordingly, and run the cells interactively.
 
-### Export Model
-
-If you would like to use the model for another dataset, you can export existing model inside this Jupyter Notebook using code snippet below:
-
-```python
-import joblib
-
-joblib.dump(<replace with model accordingly>, '<replaceMeWithModelName>.joblib')
-```
-
-Existing options include: `rf`, `rf_balanced`, `log_reg`, `log_reg_balanced`, `lgbm`, `lgbm_balanced`
-
 ## Model Interpretation
 
 See [interpretation](./docs/interpretation.md)
