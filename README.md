@@ -106,3 +106,9 @@ See [Deployment](./deploy/README.md)
 ## Optimizations
 
 I haven't done the pipeline for `aug_test.csv`, feel free to do it on your own, to test the model more.
+
+# Algorithms in Machine Learning
+
+See:
+
+- [Regression](./docs/ml-algorithms/regressionEvaluationProof.md)
