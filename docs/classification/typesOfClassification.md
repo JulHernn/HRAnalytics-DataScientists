@@ -12,7 +12,9 @@ There are 3 types of Classification
 1. Chocolate Classification
 
 Features: Only images (dark chocolate and white chocolate)
+
 Feature Count: 2
+
 Dataset Link: https://www.kaggle.com/datasets/siddharthmandgi/chocolate-classification
 
 2.
