@@ -112,3 +112,9 @@ I haven't done the pipeline for `aug_test.csv`, feel free to do it on your own, 
 See:
 
 - [Regression](./docs/ml-algorithms/regressionEvaluationProof.md)
+
+# Dataset Types in Machine Learning
+
+See:
+
+- [Classification](./docs/classification/typesOfClassification.md)
