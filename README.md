@@ -116,6 +116,7 @@ I haven't done the pipeline for `aug_test.csv`, feel free to do it on your own, 
 ### Support Vector Machine (SVM) - Regression Edition
 
 Code: [sv-regression-practice](./sv-regression-practice.ipynb)
+
 Dataset Link: [Kaggle](https://www.kaggle.com/datasets/karthickveerakumar/salary-data-simple-linear-regression)
 
 ## Classification
@@ -125,4 +126,5 @@ Dataset Link: [Kaggle](https://www.kaggle.com/datasets/karthickveerakumar/salary
 ### Support Vector Machine (SVM) - Classification Edition
 
 Code: [sv-classifier-practice](./sv-classifier-practice.ipynb)
+
 Dataset Link: [Kaggle](https://www.kaggle.com/datasets/kumargh/pimaindiansdiabetescsv)
