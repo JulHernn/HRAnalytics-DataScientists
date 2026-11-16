@@ -41,7 +41,7 @@ HRAnalytics-DataScientists/
 
 ### Prerequisites
 
-- [Python](https://www.python.org/downloads) >= 3.10
+- [Python](https://www.python.org/downloads) >= 3.11
 - [Jupyter Notebook](https://jupyter.org/install) or [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 
 ### Setup
