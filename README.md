@@ -113,6 +113,16 @@ I haven't done the pipeline for `aug_test.csv`, feel free to do it on your own, 
 
 - [Regression](./docs/ml-algorithms/regressionEvaluationProof.md)
 
+### Support Vector Machine (SVM) - Regression Edition
+
+Code: [sv-regression-practice](./sv-regression-practice.ipynb)
+Dataset Link: [Kaggle](https://www.kaggle.com/datasets/karthickveerakumar/salary-data-simple-linear-regression)
+
 ## Classification
 
 - [Types of Classification](./docs/classification/typesOfClassification.md)
+
+### Support Vector Machine (SVM) - Classification Edition
+
+Code: [sv-classifier-practice](./sv-classifier-practice.ipynb)
+Dataset Link: [Kaggle](https://www.kaggle.com/datasets/kumargh/pimaindiansdiabetescsv)
